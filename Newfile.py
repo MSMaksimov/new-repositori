@@ -1,2 +1,2 @@
-print('Down')
+print('Downlight')
 print('Up')
