@@ -1,1 +1,2 @@
 print('Down')
+print('Up')
