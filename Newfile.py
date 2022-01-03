@@ -1,3 +1,1 @@
-print('Downer')
 print('Up')
-
