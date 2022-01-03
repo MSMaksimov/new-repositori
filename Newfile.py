@@ -1,2 +1,2 @@
 print('Downer')
-print('Upper')
+print('Up to')
