@@ -1,2 +1,2 @@
 print('Downer')
-print('Upload')
+print('Up')
