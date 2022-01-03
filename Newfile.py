@@ -1,3 +1,3 @@
 print('Downer')
-print('Upper to three')
+print('Up')
 
