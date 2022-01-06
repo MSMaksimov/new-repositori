@@ -1,0 +1,2 @@
+print('TrashTrashTrashTrashTrashTrashTrashTrashTrashTrash')
+print('CleanCleanCleanCleanCleanCleanCleanCleanCleanClean')
