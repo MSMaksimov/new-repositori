@@ -1,2 +1,6 @@
 print('TrashTrashTrashTrashTrashTrashTrashTrashTrashTrash')
 print('CleanCleanCleanCleanCleanCleanCleanCleanCleanClean')
+print('CleanCleanCleanCleanCleanCleanCleanCleanCleanClean')
+print('TrashTrashTrashTrashTrashTrashTrashTrashTrashTrash')
+print('CleanCleanCleanCleanCleanCleanCleanCleanCleanClean')
+print('TrashTrashTrashTrashTrashTrashTrashTrashTrashTrash')
