@@ -1,1 +1,2 @@
 print('Sun')
+print('Moon')
