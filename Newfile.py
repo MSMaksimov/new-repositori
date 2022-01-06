@@ -4,3 +4,4 @@ for i in range(1, 111):
     print('home', i)
     print('date', i)
 print('TrashTrashTrashTrashTrashTrashTrashTrashTrashTrash')
+print('TrashTrashTrashTrashTrashTrashTrashTrashTrashTrash')
