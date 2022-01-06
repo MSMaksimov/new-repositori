@@ -1,2 +1,1 @@
 print('Sun')
-print('Moon')
